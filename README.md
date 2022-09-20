@@ -7,7 +7,6 @@ How can you use algorithm without knowing how it works. Writing an algorithm hel
 The material I used: 
 
 [ML YSDA](https://ml-handbook.ru/)
------------------------------------
 [ML ITMO](https://github.com/testpassword/Machine-learning-and-data-analysis)
 
 [NLP Lena Voita](https://lena-voita.github.io/nlp_course.html#whats_inside_fun)
