@@ -16,12 +16,16 @@ import warnings
 
 from nltk.corpus import stopwords
 
+warnings.filterwarnings('ignore')
+nltk.download('stopwords')
+nltk.download('punkt')
+
 class parse_and_prepare():
-    def __init__(self, EOS=False):
+    def __init__(self):
         self.vocab_size = 0
         self.vocab = np.array([])
         self.text = np.array([])
-        self.EOS = EOS
+        self.text_1 = []
 
     def parse(self, sites):
         self.count = len(sites)
@@ -36,16 +40,16 @@ class parse_and_prepare():
                 article_text_second += p.text
 
             processed_article_second = article_text_second.lower()
-            if EOS:
-                processed_article_second = re.sub('[^a-zA-Z.]', ' ', processed_article_second)
-            else:
-                processed_article_second = re.sub('[^a-zA-Z]', ' ', processed_article_second)
+            processed_article_second = re.sub('[^a-zA-Z]', ' ', processed_article_second)
             processed_article_second = re.sub('\s+', ' ', processed_article_second)
             all_sentences_second = nltk.sent_tokenize(processed_article_second)
             all_words_second = [nltk.word_tokenize(sent) for sent in all_sentences_second]
 
-            for i in range(1):
-                all_words_second[i] = [w for w in all_words_second[i] if w not in stopwords.words('english')]
+            for i in range(len(all_words_second)):
+                for j in range(len(all_words_second[i])):
+                    # print(all_words[i][j])
+                    if all_words_second[i][j] not in stopwords.words('english'):
+                        self.text_1.append(all_words_second[i][j])
 
             for word in all_words_second[0]:
                 self.text = np.append(self.text, word)
@@ -58,4 +62,4 @@ class parse_and_prepare():
                     self.vocab = np.append(self.vocab, word)
                     self.vocab_size += 1
         
-        return self.vocab, self.text, all_words_second
+        return self.vocab, self.text_1, all_words_second
