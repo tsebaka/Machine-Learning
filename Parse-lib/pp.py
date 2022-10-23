@@ -21,10 +21,11 @@ nltk.download('stopwords')
 nltk.download('punkt')
 
 class parse_and_prepare():
-    def __init__(self):
+    def __init__(self, EOS=False):
         self.vocab_size = 0
         self.vocab = np.array([])
         self.text = np.array([])
+        self.EOS = EOS
         self.text_1 = []
 
     def parse(self, sites):
@@ -40,7 +41,10 @@ class parse_and_prepare():
                 article_text_second += p.text
 
             processed_article_second = article_text_second.lower()
-            processed_article_second = re.sub('[^a-zA-Z]', ' ', processed_article_second)
+            if self.EOS:
+                processed_article_second = re.sub('[^a-zA-Z.]', ' ', processed_article_second)
+            else:
+                processed_article_second = re.sub('[^a-zA-Z]', ' ', processed_article_second)
             processed_article_second = re.sub('\s+', ' ', processed_article_second)
             all_sentences_second = nltk.sent_tokenize(processed_article_second)
             all_words_second = [nltk.word_tokenize(sent) for sent in all_sentences_second]
