@@ -8,6 +8,7 @@ import warnings
 from nltk.corpus import stopwords
 
 nltk.download('stopwords')
+nltk.download('punkt')
 
 class parse_and_prepare():
     def __init__(self, EOS=False):
