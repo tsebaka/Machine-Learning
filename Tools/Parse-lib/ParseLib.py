@@ -42,7 +42,8 @@ class parse_and_prepare():
             
             for sentence in new_text:
                 for word in sentence:
-                    self.text.append(word)
+                    if word not in stopwords.words('english'):
+                        self.text.append(word)
 
         self.vocab = np.unique(self.text)
         return self.text, self.texts, self.vocab
