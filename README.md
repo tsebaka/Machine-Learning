@@ -39,6 +39,8 @@ how can you use algorithm without knowing how it works. Writing an algorithm hel
 2.  [word2vec с нуля](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/word2vec.ipynb)
 3.  [LSTM with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/LSTM%20pytoch.ipynb)
 
+---
+
 ### materials: 
 
 [ML YSDA](https://ml-handbook.ru/)
