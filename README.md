@@ -4,6 +4,24 @@
 ## why?
 how can you use algorithm without knowing how it works. Writing an algorithm helps me to understand all the nuances of its work, as well as in the next solution of the problem, you will see why it is good to apply one or another algorithm since you fully know their work
 
+---
+## Classical ML
+### Линейные модели
+01. [Линейная регрессия аналитический метод](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Analytical_Method.ipynb)
+02. [Линейная регрессия градиентный метод](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Gradient_Method.ipynb)
+03. [Линейная регрессия with Sklearn](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Sklearn%20Linear%20Regression.ipynb)
+04. [SVM](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear%20Classification%20SVM.ipynb)
+05. [Логистическая регрессия](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Logistic%20regression/Logistic%20regression.ipynb)
+### Решающие деревья
+01. [Decision Tree Regressor](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Decision%20Tree/Decision%20Tree%20Regression.ipynb)
+### Ensembles
+01. [Баггинг над решающими деревьями](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Ensemble%20-%20Bagging%20on%20decision%20tree.ipynb)
+02. [Градиентный бустинг](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Gradient_Boosting.ipynb)
+### Вероятностные методы
+01. [Наивный Байесовский классификатор](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20from%20scratch.ipynb)
+02. [Наивный Байесовский классификатор with sklearn](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20with%20sklearn.ipynb)
+03. [Немного о статистической устойчивости](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Statistical%20stability.ipynb)
+
 ### materials: 
 
 [ML YSDA](https://ml-handbook.ru/)
