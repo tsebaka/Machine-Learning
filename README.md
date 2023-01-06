@@ -43,7 +43,7 @@ how can you use algorithm without knowing how it works. Writing an algorithm hel
 
 ### materials: 
 
-[ML YSDA](https://ml-handbook.ru/)
+[ML YSDA](https://academy.yandex.ru/handbook)
 
 [ML ITMO](https://github.com/testpassword/Machine-learning-and-data-analysis)
 
