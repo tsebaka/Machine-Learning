@@ -22,6 +22,23 @@ how can you use algorithm without knowing how it works. Writing an algorithm hel
 02. [Наивный Байесовский классификатор with sklearn](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20with%20sklearn.ipynb)
 03. [Немного о статистической устойчивости](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Statistical%20stability.ipynb)
 
+---
+## Deep Learning
+### Neural Networks
+#### FCNN
+01. [Задача о двух прямых](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines.ipynb)
+2.  [Задача о двух прямых with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines%20with%20torch.ipynb)
+3.  [Классификатор рукописных чисел (MNIST) с нуля](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/MNIST%20Neural%20network.ipynb)
+4.  [Классификатор рукописных чисел (MNIST) with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/NetMNISTtorch.ipynb)
+
+#### CNN
+01. [Классификатор рукописных чисел (MNIST) with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/CNN/ConvMNISTtorch.ipynb)
+
+### NLP
+01. [Intro to NLP](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/NLP%20intro.ipynb)
+2.  [word2vec с нуля](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/word2vec.ipynb)
+3.  [LSTM with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/LSTM%20pytoch.ipynb)
+
 ### materials: 
 
 [ML YSDA](https://ml-handbook.ru/)
