@@ -41,7 +41,7 @@ how can you use algorithm without knowing how it works. Writing an algorithm hel
 4.  [LSTM and text generation](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/text%20generator%20with%20LSTM.ipynb)
 5.  [seq2seq for machine translation](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq.ipynb)
 6.  [seq2seq with attention for machine translation](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq%20with%20attention.ipynb)
-7.  [BERT for spam](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT.ipynb)
+7.  [BERT for spam from scratch]([https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT.ipynb](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT%20from%20scratch.ipynb))
 
 ---
 
