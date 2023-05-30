@@ -57,4 +57,4 @@ how can you use algorithm without knowing how it works. Writing an algorithm hel
 
 ##### Tell me I didnt do it for nothing.
 
-###### Omar Zoloev, 21
+###### Omar Zoloev, 21. 26.06.2022
