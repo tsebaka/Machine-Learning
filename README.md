@@ -12,12 +12,12 @@ how can you use algorithm without knowing how it works. Writing an algorithm hel
 03. [Linear regression with Sklearn](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Sklearn%20Linear%20Regression.ipynb)
 04. [SVM](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear%20Classification%20SVM.ipynb)
 05. [Logistic regression](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Logistic%20regression/Logistic%20regression.ipynb)
-### Решающие деревья
+### Decisions trees
 01. [Decision Tree Regressor](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Decision%20Tree/Decision%20Tree%20Regression.ipynb)
 ### Ensembles
 01. [Bagging on decision trees](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Ensemble%20-%20Bagging%20on%20decision%20tree.ipynb)
 02. [Gradient Boosting](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Gradient_Boosting.ipynb)
-### Вероятностные методы
+### Probabilistic methods
 01. [Naive Bayesianс classifier](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20from%20scratch.ipynb)
 02. [Naive Bayesianс classifier with sklearn](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20with%20sklearn.ipynb)
 03. [A little bit about statistical stability](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Statistical%20stability.ipynb)
