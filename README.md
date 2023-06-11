@@ -6,7 +6,7 @@ how can you use algorithm without knowing how it works. Writing an algorithm hel
 
 ---
 ## Classical ML
-### Линейные модели
+### Linear Models
 01. [Linear regression analytical method](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Analytical_Method.ipynb)
 02. [Linear regression gradient method](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Gradient_Method.ipynb)
 03. [Linear regression with Sklearn](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Sklearn%20Linear%20Regression.ipynb)
