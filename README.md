@@ -6,42 +6,42 @@ how can you use algorithm without knowing how it works. Writing an algorithm hel
 
 ---
 ## Classical ML
-### Линейные модели
-01. [Линейная регрессия аналитический метод](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Analytical_Method.ipynb)
-02. [Линейная регрессия градиентный метод](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Gradient_Method.ipynb)
-03. [Линейная регрессия with Sklearn](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Sklearn%20Linear%20Regression.ipynb)
+### Linear Models
+01. [Linear regression analytical method](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Analytical_Method.ipynb)
+02. [Linear regression gradient method](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Gradient_Method.ipynb)
+03. [Linear regression with Sklearn](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Sklearn%20Linear%20Regression.ipynb)
 04. [SVM](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear%20Classification%20SVM.ipynb)
-05. [Логистическая регрессия](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Logistic%20regression/Logistic%20regression.ipynb)
-### Решающие деревья
+05. [Logistic regression](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Logistic%20regression/Logistic%20regression.ipynb)
+### Decisions trees
 01. [Decision Tree Regressor](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Decision%20Tree/Decision%20Tree%20Regression.ipynb)
 ### Ensembles
-01. [Баггинг над решающими деревьями](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Ensemble%20-%20Bagging%20on%20decision%20tree.ipynb)
-02. [Градиентный бустинг](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Gradient_Boosting.ipynb)
-### Вероятностные методы
-01. [Наивный Байесовский классификатор](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20from%20scratch.ipynb)
-02. [Наивный Байесовский классификатор with sklearn](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20with%20sklearn.ipynb)
-03. [Немного о статистической устойчивости](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Statistical%20stability.ipynb)
+01. [Bagging on decision trees](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Ensemble%20-%20Bagging%20on%20decision%20tree.ipynb)
+02. [Gradient Boosting](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Gradient_Boosting.ipynb)
+### Probabilistic methods
+01. [Naive Bayesianс classifier](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20from%20scratch.ipynb)
+02. [Naive Bayesianс classifier with sklearn](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20with%20sklearn.ipynb)
+03. [A little bit about statistical stability](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Statistical%20stability.ipynb)
 
 ---
 ## Deep Learning
 ### Neural Networks
 #### FCNN
-01. [Задача о двух прямых](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines.ipynb)
-2.  [Задача о двух прямых with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines%20with%20torch.ipynb)
-3.  [Классификатор рукописных чисел (MNIST) с нуля](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/MNIST%20Neural%20network.ipynb)
-4.  [Классификатор рукописных чисел (MNIST) with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/NetMNISTtorch.ipynb)
+01. [Task about two lines](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines.ipynb)
+2.  [Task about two lines with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines%20with%20torch.ipynb)
+3.  [Classifier handwritten numbers (MNIST) с нуля](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/MNIST%20Neural%20network.ipynb)
+4.  [Classifier handwritten numbers (MNIST) with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/NetMNISTtorch.ipynb)
 
 #### CNN
-01. [Классификатор рукописных чисел (MNIST) with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/CNN/ConvMNISTtorch.ipynb)
+01. [Classifier handwritten numbers (MNIST) with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/CNN/ConvMNISTtorch.ipynb)
 
 ### NLP
 01. [Intro to NLP](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/NLP%20intro.ipynb)
-2.  [word2vec с нуля](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/word2vec.ipynb)
-3.  [LSTM with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/LSTM%20pytoch.ipynb)
+2.  [word2vec с нуля](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/word2vec.ipynb) | [paper](https://arxiv.org/pdf/1301.3781.pdf)
+3.  [LSTM with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/LSTM%20pytoch.ipynb) | [paper](https://www.bioinf.jku.at/publications/older/2604.pdf)
 4.  [LSTM and text generation](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/text%20generator%20with%20LSTM.ipynb)
-5.  [seq2seq for machine translation](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq.ipynb)
+5.  [seq2seq for machine translation](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq.ipynb) | [paper](https://arxiv.org/pdf/1409.3215.pdf)
 6.  [seq2seq with attention for machine translation](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq%20with%20attention.ipynb)
-7.  [BERT for spam from scratch](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT%20from%20scratch.ipynb)
+7.  [BERT for spam from scratch](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT%20from%20scratch.ipynb) | [paper](https://arxiv.org/pdf/1810.04805.pdf)
 
 ---
 
@@ -57,4 +57,4 @@ how can you use algorithm without knowing how it works. Writing an algorithm hel
 
 ##### Tell me I didnt do it for nothing.
 
-###### Omar Zoloev, 21
+###### Omar Zoloev, 21. 26.06.2022
