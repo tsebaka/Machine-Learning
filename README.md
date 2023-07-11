@@ -38,7 +38,7 @@ _how can you use algorithm without knowing how it works. Writing an algorithm he
 4.  [LSTM and text generation](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/text%20generator%20with%20LSTM.ipynb)
 5.  [seq2seq for machine translation](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq.ipynb) | [paper](https://arxiv.org/pdf/1409.3215.pdf)
 6.  [seq2seq with attention for machine translation](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq%20with%20attention.ipynb)
-7.  [BERT for spam from scratch](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT%20from%20scratch.ipynb) | [paper](https://arxiv.org/pdf/1810.04805.pdf)
+7.  **BERT from scratch** [link](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT%20from%20scratch.ipynb), [paper](https://arxiv.org/pdf/1810.04805.pdf)
 
 ### CV
 1. Image clustering [link](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/CV/Image%20clustering.ipynb), [paper](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/CV/Image%20clustering.ipynb)
