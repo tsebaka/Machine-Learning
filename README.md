@@ -2,7 +2,7 @@
 # ML from scratch
 
 ### why?
-how can you use algorithm without knowing how it works. Writing an algorithm helps me to understand all the nuances of its work, as well as in the next solution of the problem, you will see why it is good to apply one or another algorithm since you fully know their work
+_how can you use algorithm without knowing how it works. Writing an algorithm helps me to understand all the nuances of its work, as well as in the next solution of the problem, you will see why it is good to apply one or another algorithm since you fully know their work_
 ## Classical ML
 ### Linear Models
 01. [Linear regression analytical method](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Analytical_Method.ipynb)
