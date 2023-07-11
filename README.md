@@ -20,7 +20,6 @@ _how can you use algorithm without knowing how it works. Writing an algorithm he
 02. [Naive Bayesianс classifier with sklearn](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20with%20sklearn.ipynb)
 03. [A little bit about statistical stability](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Statistical%20stability.ipynb)
 
----
 ## Deep Learning
 ### Neural Networks
 #### FCNN
