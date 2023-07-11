@@ -32,12 +32,12 @@ _how can you use algorithm without knowing how it works. Writing an algorithm he
 01. [Classifier handwritten numbers (MNIST) with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/CNN/ConvMNISTtorch.ipynb)
 
 ### NLP
-  **1.** **word2vec word embeddings**              [code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/word2vec.ipynb), [paper](https://arxiv.org/pdf/1301.3781.pdf)
-  **2.** **LSTM next word prediction**             [code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/LSTM%20pytoch.ipynb), [paper](https://www.bioinf.jku.at/publications/older/2604.pdf)
-  **3.** **LSTM text generation**                  [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/text%20generator%20with%20LSTM.ipynb), [paper](https://arxiv.org/pdf/2005.00048.pdf)
-  **4.** **seq2seq machine translation**           [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq.ipynb), [paper](https://arxiv.org/pdf/1409.3215.pdf)
-  **5.** **seq2seq Attention machine translation** [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq%20with%20attention.ipynb), [paper](https://arxiv.org/pdf/1706.03762.pdf)
-  **6.** **BERT**                                  [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT%20from%20scratch.ipynb), [paper](https://arxiv.org/pdf/1810.04805.pdf)
+**1.** **word2vec word embeddings**              [code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/word2vec.ipynb), [paper](https://arxiv.org/pdf/1301.3781.pdf)
+**2.** **LSTM next word prediction**             [code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/LSTM%20pytoch.ipynb), [paper](https://www.bioinf.jku.at/publications/older/2604.pdf)
+**3.** **LSTM text generation**                  [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/text%20generator%20with%20LSTM.ipynb), [paper](https://arxiv.org/pdf/2005.00048.pdf)
+**4.** **seq2seq machine translation**           [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq.ipynb), [paper](https://arxiv.org/pdf/1409.3215.pdf)
+**5.** **seq2seq Attention machine translation** [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq%20with%20attention.ipynb), [paper](https://arxiv.org/pdf/1706.03762.pdf)
+**6.** **BERT**                                  [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT%20from%20scratch.ipynb), [paper](https://arxiv.org/pdf/1810.04805.pdf)
 
 ### CV
   * Image clustering [link](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/CV/Image%20clustering.ipynb), [paper](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/CV/Image%20clustering.ipynb)
