@@ -3,8 +3,6 @@
 
 ## why?
 how can you use algorithm without knowing how it works. Writing an algorithm helps me to understand all the nuances of its work, as well as in the next solution of the problem, you will see why it is good to apply one or another algorithm since you fully know their work
-
----
 ## Classical ML
 ### Linear Models
 01. [Linear regression analytical method](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Analytical_Method.ipynb)
@@ -42,8 +40,6 @@ how can you use algorithm without knowing how it works. Writing an algorithm hel
 5.  [seq2seq for machine translation](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq.ipynb) | [paper](https://arxiv.org/pdf/1409.3215.pdf)
 6.  [seq2seq with attention for machine translation](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq%20with%20attention.ipynb)
 7.  [BERT for spam from scratch](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT%20from%20scratch.ipynb) | [paper](https://arxiv.org/pdf/1810.04805.pdf)
-
----
 
 ### materials: 
 
