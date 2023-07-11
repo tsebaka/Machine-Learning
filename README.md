@@ -41,7 +41,7 @@ _how can you use algorithm without knowing how it works. Writing an algorithm he
 7.  [BERT for spam from scratch](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT%20from%20scratch.ipynb) | [paper](https://arxiv.org/pdf/1810.04805.pdf)
 
 ### CV
-1. [Image clustering](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/CV/Image%20clustering.ipynb)
+1. Image clustering [link](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/CV/Image%20clustering.ipynb), [paper](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/CV/Image%20clustering.ipynb)
 
 ### materials: 
 
