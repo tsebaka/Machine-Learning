@@ -3,7 +3,7 @@
 
 ### why?
 _how can you use algorithm without knowing how it works. Writing an algorithm helps me to understand all the nuances of its work, as well as in the next solution of the problem, you will see why it is good to apply one or another algorithm since you fully know their work_
-## Classical ML
+## Classical Machine Learning
 ### Linear Models
 01. [Linear regression analytical method](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Analytical_Method.ipynb)
 02. [Linear regression gradient method](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Gradient_Method.ipynb)
@@ -22,16 +22,16 @@ _how can you use algorithm without knowing how it works. Writing an algorithm he
 
 ## Deep Learning
 ### Neural Networks
-#### FCNN
+#### Fully connected neural network
 01. [Task about two lines](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines.ipynb)
 2.  [Task about two lines with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines%20with%20torch.ipynb)
 3.  [Classifier handwritten numbers (MNIST) с нуля](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/MNIST%20Neural%20network.ipynb)
 4.  [Classifier handwritten numbers (MNIST) with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/NetMNISTtorch.ipynb)
 
-#### CNN
+#### Convolutional neural network
 01. [Classifier handwritten numbers (MNIST) with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/CNN/ConvMNISTtorch.ipynb)
 
-### NLP
+### Natural language processing 
 1. **word2vec word embeddings**              [code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/word2vec.ipynb), [paper](https://arxiv.org/pdf/1301.3781.pdf)
 2. **LSTM next word prediction**             [code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/LSTM%20pytoch.ipynb), [paper](https://www.bioinf.jku.at/publications/older/2604.pdf)
 3. **LSTM text generation**                  [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/text%20generator%20with%20LSTM.ipynb), [paper](https://arxiv.org/pdf/2005.00048.pdf)
@@ -39,7 +39,7 @@ _how can you use algorithm without knowing how it works. Writing an algorithm he
 5. **seq2seq Attention machine translation** [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq%20with%20attention.ipynb), [paper](https://arxiv.org/pdf/1706.03762.pdf)
 6. **BERT**                                  [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT%20from%20scratch.ipynb), [paper](https://arxiv.org/pdf/1810.04805.pdf)
 
-### CV
+### Computer Vision
   * Image clustering [link](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/CV/Image%20clustering.ipynb), [paper](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/CV/Image%20clustering.ipynb)
 
 ### materials: 
