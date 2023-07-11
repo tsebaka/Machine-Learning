@@ -33,12 +33,15 @@ _how can you use algorithm without knowing how it works. Writing an algorithm he
 
 ### NLP
 01. [Intro to NLP](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/NLP%20intro.ipynb)
-2.  [word2vec с нуля](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/word2vec.ipynb) | [paper](https://arxiv.org/pdf/1301.3781.pdf)
+2.  [word2vec from scratch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/word2vec.ipynb) | [paper](https://arxiv.org/pdf/1301.3781.pdf)
 3.  [LSTM with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/LSTM%20pytoch.ipynb) | [paper](https://www.bioinf.jku.at/publications/older/2604.pdf)
 4.  [LSTM and text generation](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/text%20generator%20with%20LSTM.ipynb)
 5.  [seq2seq for machine translation](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq.ipynb) | [paper](https://arxiv.org/pdf/1409.3215.pdf)
 6.  [seq2seq with attention for machine translation](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq%20with%20attention.ipynb)
 7.  [BERT for spam from scratch](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT%20from%20scratch.ipynb) | [paper](https://arxiv.org/pdf/1810.04805.pdf)
+
+### CV
+1. [Image clustering](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/CV/Image%20clustering.ipynb)
 
 ### materials: 
 
