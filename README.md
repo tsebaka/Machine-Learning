@@ -33,7 +33,7 @@ _how can you use algorithm without knowing how it works. Writing an algorithm he
 
 ### NLP
 01. [Intro to NLP](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/NLP%20intro.ipynb)
-2.  **word2vec word embeddings**</pre>              </pre>[code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/word2vec.ipynb), [paper](https://arxiv.org/pdf/1301.3781.pdf)
+2.  **word2vec word embeddings**</pre>              [code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/word2vec.ipynb), [paper](https://arxiv.org/pdf/1301.3781.pdf)</pre>
 3.  **LSTM next word prediction**             [code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/LSTM%20pytoch.ipynb), [paper](https://www.bioinf.jku.at/publications/older/2604.pdf)
 4.  **LSTM text generation**                  [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/text%20generator%20with%20LSTM.ipynb), [paper](https://arxiv.org/pdf/2005.00048.pdf)
 5.  **seq2seq machine translation**           [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq.ipynb), [paper](https://arxiv.org/pdf/1409.3215.pdf)
