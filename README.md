@@ -7,7 +7,7 @@ _how can you use algorithm without knowing how it works. Writing an algorithm he
 ### Linear Models
 01. **Linear regression analytical method** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Analytical_Method.ipynb)
 02. **Linear regression gradient method** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Gradient_Method.ipynb)
-03. **Linear regression with Sklearn** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Sklearn%20Linear%20Regression.ipynb)
+03. **Linear regression Sklearn** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Sklearn%20Linear%20Regression.ipynb)
 04. **SVM**  [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear%20Classification%20SVM.ipynb)
 05. **Logistic regression** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Logistic%20regression/Logistic%20regression.ipynb)
 ### Decisions trees
@@ -17,19 +17,19 @@ _how can you use algorithm without knowing how it works. Writing an algorithm he
 02. **Gradient Boosting** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Gradient_Boosting.ipynb)
 ### Probabilistic methods
 01. **Naive Bayesianс classifier** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20from%20scratch.ipynb)
-02. **Naive Bayesianс classifier with sklearn** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20with%20sklearn.ipynb)
+02. **Naive Bayesianс classifier sklearn** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20with%20sklearn.ipynb)
 03. **A little bit about statistical stability** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Statistical%20stability.ipynb)
 
 ## Deep Learning
 ### Neural Networks
 #### Fully connected neural network
-01. [Task about two lines](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines.ipynb)
-2.  [Task about two lines with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines%20with%20torch.ipynb)
-3.  [Classifier handwritten numbers (MNIST) с нуля](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/MNIST%20Neural%20network.ipynb)
-4.  [Classifier handwritten numbers (MNIST) with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/NetMNISTtorch.ipynb)
+01. **Task about two lines** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines.ipynb)
+2.  **Task about two lines torch** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines%20with%20torch.ipynb)
+3.  **Classifier handwritten numbers (MNIST) from scratch** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/MNIST%20Neural%20network.ipynb)
+4.  **Classifier handwritten numbers (MNIST) torch** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/NetMNISTtorch.ipynb)
 
 #### Convolutional neural network
-01. [Classifier handwritten numbers (MNIST) with torch](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/CNN/ConvMNISTtorch.ipynb)
+01. **Classifier handwritten numbers (MNIST) torch** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/CNN/ConvMNISTtorch.ipynb)
 
 ### Natural language processing 
 1. **word2vec word embeddings**              [code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/word2vec.ipynb), [paper](https://arxiv.org/pdf/1301.3781.pdf)
