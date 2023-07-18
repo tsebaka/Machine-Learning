@@ -7,25 +7,25 @@
 03. Linear regression Sklearn [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Sklearn%20Linear%20Regression.ipynb)
 04. SVM  [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear%20Classification%20SVM.ipynb)
 05. Logistic regression [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Logistic%20regression/Logistic%20regression.ipynb)
-### Decisions trees
+* ### Decisions trees
 01. Decision Tree Regressor [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Decision%20Tree/Decision%20Tree%20Regression.ipynb)
-### Ensembles
+* ### Ensembles
 01. Bagging on decision trees [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Ensemble%20-%20Bagging%20on%20decision%20tree.ipynb)
 02. Gradient Boosting [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Gradient_Boosting.ipynb)
-### Probabilistic methods
+* ### Probabilistic methods
 01. Naive Bayesianс classifier [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20from%20scratch.ipynb)
 02. Naive Bayesianс classifier sklearn [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20with%20sklearn.ipynb)
 03. A little bit about statistical stability [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Statistical%20stability.ipynb)
 
 ## Deep Learning
 ### Neural Networks
-#### Fully connected neural network
+* #### Fully connected neural network
 01. Task about two lines [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines.ipynb)
 2.  Task about two lines torch [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines%20with%20torch.ipynb)
 3.  Classifier handwritten numbers (MNIST) from scratch [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/MNIST%20Neural%20network.ipynb)
 4.  Classifier handwritten numbers (MNIST) torch [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/NetMNISTtorch.ipynb)
 
-#### Convolutional neural network
+* #### Convolutional neural network
 01. Classifier handwritten numbers (MNIST) torch [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/CNN/ConvMNISTtorch.ipynb)
 
 ### Natural language processing 
