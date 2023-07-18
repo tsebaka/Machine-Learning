@@ -62,6 +62,12 @@
 6. BERT                               [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT%20from%20scratch.ipynb), [paper](https://arxiv.org/pdf/1810.04805.pdf)
 
 ### Computer Vision
+<p align="center">
+  <a>
+    <img src="https://i.gifer.com/embedded/download/SHu9.gif" alt="Зачем нужна математика?" width="600">
+  </a>
+</p>
+
   * Image clustering [link](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/CV/Image%20clustering.ipynb), [paper](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/CV/Image%20clustering.ipynb)
 
 ### materials: 
