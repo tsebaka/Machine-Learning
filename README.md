@@ -64,7 +64,7 @@
 ### Computer Vision
 <p align="center">
   <a>
-    <img src="https://i.gifer.com/SHu9.gif" alt="Зачем нужна математика?" width="600">
+    <img src="https://i.pinimg.com/originals/a3/3e/d1/a33ed1a30053418ac6c1ef9b3351e771.gif" alt="Зачем нужна математика?" width="600">
   </a>
 </p>
 
