@@ -5,7 +5,7 @@
 
 <p align="center">
   <a>
-    <img src="https://phonoteka.org/uploads/posts/2021-05/1620288222_24-phonoteka_org-p-zatsiklennie-video-dlya-fona-42.jpg" alt="Зачем нужна математика?" width="600">
+    <img src="https://phonoteka.org/uploads/posts/2021-05/1620288222_24-phonoteka_org-p-zatsiklennie-video-dlya-fona-42.jpg" alt="Linear Models?" width="600">
   </a>
 </p>
 
