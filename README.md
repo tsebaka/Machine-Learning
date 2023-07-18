@@ -2,6 +2,11 @@
 # Machine Learning from scratch
 ## Classical Machine Learning
 ### Linear Models
+<p align="center">
+  <a>
+    <img src="https://machinelearningmastery.ru/img/0-233724-94536.gif" alt="Зачем нужна математика?" width="600">
+  </a>
+</p>
 01. Linear regression analytical method [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Analytical_Method.ipynb)
 02. Linear regression gradient method [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Gradient_Method.ipynb)
 03. Linear regression Sklearn [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Sklearn%20Linear%20Regression.ipynb)
