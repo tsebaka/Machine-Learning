@@ -36,6 +36,12 @@
 01. Classifier handwritten numbers (MNIST) torch [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/CNN/ConvMNISTtorch.ipynb)
 
 ### Natural language processing 
+<p align="center">
+  <a>
+    <img src="https://avatars.dzeninfra.ru/get-zen_doc/4079787/pub_60755fec063a3d24f9fee32d_60756163dbd81a619429df70/orig" alt="Зачем нужна математика?" width="600">
+  </a>
+</p>
+
 1. word2vec word embeddings              [code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/word2vec.ipynb), [paper](https://arxiv.org/pdf/1301.3781.pdf)
 2. LSTM next word prediction             [code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/LSTM%20pytoch.ipynb), [paper](https://www.bioinf.jku.at/publications/older/2604.pdf)
 3. LSTM text generation                  [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/text%20generator%20with%20LSTM.ipynb), [paper](https://arxiv.org/pdf/2005.00048.pdf)
