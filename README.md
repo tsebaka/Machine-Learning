@@ -17,6 +17,11 @@
 ### Decisions trees
 01. Decision Tree Regressor [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Decision%20Tree/Decision%20Tree%20Regression.ipynb)
 ### Ensembles
+<p align="center">
+  <a>
+    <img src="https://camo.githubusercontent.com/f4d753da60c20d81232181cc260d5a21485fcf7120533770478187ded8392ed5/687474703a2f2f75632d722e6769746875622e696f2f7075626c69632f696d616765732f616e616c79746963732f67626d2f626f6f737465645f7374756d70732e676966" alt="Зачем нужна математика?" width="600">
+  </a>
+</p>
 01. Bagging on decision trees [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Ensemble%20-%20Bagging%20on%20decision%20tree.ipynb)
 02. Gradient Boosting [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Gradient_Boosting.ipynb)
 ### Probabilistic methods
