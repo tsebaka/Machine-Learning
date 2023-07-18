@@ -2,39 +2,39 @@
 # ML from scratch
 ## Classical Machine Learning
 ### Linear Models
-01. **Linear regression analytical method** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Analytical_Method.ipynb)
-02. **Linear regression gradient method** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Gradient_Method.ipynb)
-03. **Linear regression Sklearn** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Sklearn%20Linear%20Regression.ipynb)
-04. **SVM**  [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear%20Classification%20SVM.ipynb)
-05. **Logistic regression** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Logistic%20regression/Logistic%20regression.ipynb)
+01. inear regression analytical method [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Analytical_Method.ipynb)
+02. Linear regression gradient method [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear_Regression_Gradient_Method.ipynb)
+03. Linear regression Sklearn [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Sklearn%20Linear%20Regression.ipynb)
+04. SVM  [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Linear%20models/Linear%20Classification%20SVM.ipynb)
+05. Logistic regression [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Logistic%20regression/Logistic%20regression.ipynb)
 ### Decisions trees
-01. **Decision Tree Regressor** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Decision%20Tree/Decision%20Tree%20Regression.ipynb)
+01. Decision Tree Regressor [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Decision%20Tree/Decision%20Tree%20Regression.ipynb)
 ### Ensembles
-01. **Bagging on decision trees** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Ensemble%20-%20Bagging%20on%20decision%20tree.ipynb)
-02. **Gradient Boosting** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Gradient_Boosting.ipynb)
+01. Bagging on decision trees [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Ensemble%20-%20Bagging%20on%20decision%20tree.ipynb)
+02. Gradient Boosting [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Ensembles/Gradient_Boosting.ipynb)
 ### Probabilistic methods
-01. **Naive Bayesianс classifier** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20from%20scratch.ipynb)
-02. **Naive Bayesianс classifier sklearn** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20with%20sklearn.ipynb)
-03. **A little bit about statistical stability** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Statistical%20stability.ipynb)
+01. Naive Bayesianс classifier [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20from%20scratch.ipynb)
+02. Naive Bayesianс classifier sklearn [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Naive%20Bayes%20Classifier%20with%20sklearn.ipynb)
+03. A little bit about statistical stability [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Classical%20ML/Probabilistic%20models/Statistical%20stability.ipynb)
 
 ## Deep Learning
 ### Neural Networks
 #### Fully connected neural network
-01. **Task about two lines** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines.ipynb)
-2.  **Task about two lines torch** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines%20with%20torch.ipynb)
-3.  **Classifier handwritten numbers (MNIST) from scratch** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/MNIST%20Neural%20network.ipynb)
-4.  **Classifier handwritten numbers (MNIST) torch** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/NetMNISTtorch.ipynb)
+01. Task about two lines [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines.ipynb)
+2.  Task about two lines torch [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines%20with%20torch.ipynb)
+3.  Classifier handwritten numbers (MNIST) from scratch [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/MNIST%20Neural%20network.ipynb)
+4.  Classifier handwritten numbers (MNIST) torch [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/NetMNISTtorch.ipynb)
 
 #### Convolutional neural network
-01. **Classifier handwritten numbers (MNIST) torch** [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/CNN/ConvMNISTtorch.ipynb)
+01. Classifier handwritten numbers (MNIST) torch [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/CNN/ConvMNISTtorch.ipynb)
 
 ### Natural language processing 
-1. **word2vec word embeddings**              [code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/word2vec.ipynb), [paper](https://arxiv.org/pdf/1301.3781.pdf)
-2. **LSTM next word prediction**             [code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/LSTM%20pytoch.ipynb), [paper](https://www.bioinf.jku.at/publications/older/2604.pdf)
-3. **LSTM text generation**                  [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/text%20generator%20with%20LSTM.ipynb), [paper](https://arxiv.org/pdf/2005.00048.pdf)
-4. **seq2seq machine translation**           [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq.ipynb), [paper](https://arxiv.org/pdf/1409.3215.pdf)
-5. **seq2seq Attention machine translation** [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq%20with%20attention.ipynb), [paper](https://arxiv.org/pdf/1706.03762.pdf)
-6. **BERT**                                  [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT%20from%20scratch.ipynb), [paper](https://arxiv.org/pdf/1810.04805.pdf)
+1. word2vec word embeddings              [code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/word2vec.ipynb), [paper](https://arxiv.org/pdf/1301.3781.pdf)
+2. LSTM next word prediction             [code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/LSTM%20pytoch.ipynb), [paper](https://www.bioinf.jku.at/publications/older/2604.pdf)
+3. LSTM text generation                  [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/text%20generator%20with%20LSTM.ipynb), [paper](https://arxiv.org/pdf/2005.00048.pdf)
+4. seq2seq machine translation         [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq.ipynb), [paper](https://arxiv.org/pdf/1409.3215.pdf)
+5. seq2seq Attention machine translation [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/seq2seq%20with%20attention.ipynb), [paper](https://arxiv.org/pdf/1706.03762.pdf)
+6. BERT                               [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT%20from%20scratch.ipynb), [paper](https://arxiv.org/pdf/1810.04805.pdf)
 
 ### Computer Vision
   * Image clustering [link](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/CV/Image%20clustering.ipynb), [paper](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/CV/Image%20clustering.ipynb)
