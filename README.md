@@ -38,6 +38,7 @@
     <img src="https://thumbs.gfycat.com/BouncyGleefulFeline-size_restricted.gif" alt="Зачем нужна математика?" width="600">
   </a>
 </p>
+
 01. Task about two lines [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines.ipynb)
 2.  Task about two lines torch [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/Two%20lines%20with%20torch.ipynb)
 3.  Classifier handwritten numbers (MNIST) from scratch [link](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/Neural%20Networks/FCNN/MNIST%20Neural%20network.ipynb)
