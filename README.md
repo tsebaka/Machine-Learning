@@ -62,6 +62,7 @@
 6. BERT                               [code](https://github.com/tsebaka/Machine-Learning/blob/main/Deep%20Learning/NLP/BERT%20from%20scratch.ipynb), [paper](https://arxiv.org/pdf/1810.04805.pdf)
 
 ### Computer Vision
+
 <p align="center">
   <a>
     <img src="https://i.pinimg.com/originals/a3/3e/d1/a33ed1a30053418ac6c1ef9b3351e771.gif" alt="Зачем нужна математика?" width="600">
