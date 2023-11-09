@@ -1,5 +1,6 @@
 
 # Machine Learning from scratch
+This repository is dedicated to the implementation of machine learning methods and models with a detailed description and visualization
 ## Classical Machine Learning
 ### Linear Models
 
