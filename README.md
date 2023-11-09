@@ -2,6 +2,7 @@
 # Machine Learning from scratch
 This repository is dedicated to the implementation of machine learning methods and models with a detailed description and visualization
 
+
 our site [Random forest](https://dzagcoffee.github.io/random-forest/index.html)
 ## Classical Machine Learning
 ### Linear Models
