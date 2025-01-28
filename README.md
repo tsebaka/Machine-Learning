@@ -3,7 +3,7 @@
 About ml algorithms.
 
 
-## Classical Machine Learning
+## classical machine learning
 ### Linear Models
 
 01. Linear regression analytical method
