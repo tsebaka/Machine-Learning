@@ -18,12 +18,12 @@ About ml algorithms.
 02. A little bit about statistical stability 
 ## Deep Learning
 ### Neural Networks
-* #### Fully connected neural network
+#### Fully connected neural network
 01. Task about two lines
 2.  Task about two lines torch 
 3.  Classifier handwritten numbers (MNIST) from scratch
 4.  Classifier handwritten numbers (MNIST) torch
-* #### Convolutional neural network
+#### Convolutional neural network
 01. Classifier handwritten numbers (MNIST) torch
 ### Natural language processing 
 1. word2vec word embeddings              [code](https://github.com/tsebaka/ML-from-scratch/blob/main/Deep%20Learning/NLP/word2vec.ipynb), [paper](https://arxiv.org/pdf/1301.3781.pdf)
