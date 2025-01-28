@@ -19,10 +19,8 @@ About ml algorithms.
 ## Deep Learning
 ### Neural Networks
 #### Fully connected neural network
-01. Task about two lines
-2.  Task about two lines torch 
-3.  Classifier handwritten numbers (MNIST) from scratch
-4.  Classifier handwritten numbers (MNIST) torch
+1. Task about two lines scratch, torch
+2. Classifier handwritten numbers (MNIST) scratch, torch
 #### Convolutional neural network
 01. Classifier handwritten numbers (MNIST) torch
 ### Natural language processing 
