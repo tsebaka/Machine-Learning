@@ -14,11 +14,6 @@ This repository is dedicated to the implementation of machine learning methods a
 ### Decisions trees
 01. Decision Tree Regressor
 ### Ensembles
-<p align="center">
-  <a>
-    <img src="https://camo.githubusercontent.com/f4d753da60c20d81232181cc260d5a21485fcf7120533770478187ded8392ed5/687474703a2f2f75632d722e6769746875622e696f2f7075626c69632f696d616765732f616e616c79746963732f67626d2f626f6f737465645f7374756d70732e676966" alt="Зачем нужна математика?" width="600">
-  </a>
-</p>
 
 01. Bagging on decision trees 
 02. Gradient Boosting 
